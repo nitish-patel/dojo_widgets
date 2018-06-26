@@ -26,6 +26,7 @@ Gem::Specification.new do |spec|
   # When this dojo_widgets gem is installed, the page-object gem will be installed
   # as well as a result of the dependency addition below.
   spec.add_dependency 'page-object', '>= 0.9.1'
+  spec.add_dependency 'fig_newton', '1.0'
 
   # The development dependencies below have been specified as developers who wish to
   # contribute will need the gems stated below. The below will be installed when the
