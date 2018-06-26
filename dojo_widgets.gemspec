@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Wrapper around dijit controls for use with page-object gem.}
   spec.description   = %q{Wrapper around dijit controls for use with page-object gem.}
-  spec.homepage      = "https://github.com/cheezy/dojo_widgets"
+  spec.homepage      = "https://github.com/nitish-patel/dojo_widgets.git"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
